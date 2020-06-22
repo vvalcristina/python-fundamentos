@@ -5,3 +5,5 @@ Repositório dedicado aos exercícios do curso da [Data Science Academy](https:/
 * **Cap 02**: Variáveis, tipos e estruturas de dados.
 
 * **Cap 03**: Loops, condicionais, métodos e funções.
+
+* **Cap 04**: Tratamento de arquivos, módulos, pacotes e funções Built-in
