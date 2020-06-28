@@ -11,3 +11,7 @@ Repositório dedicado aos exercícios do curso da [Data Science Academy](https:/
 * **Cap 05**: Programação Orientada a Objetos (POO).
 
 * **Cap 06**: Banco de Dados: Relacional (SQLite) e NoSQL(Mongo DB).
+
+* **Cap 07**: Desafios DSA.
+
+* **Cap 08**: Python Módulos Python para Análise de dados.
