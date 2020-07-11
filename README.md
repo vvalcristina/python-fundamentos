@@ -15,3 +15,6 @@ Repositório dedicado aos exercícios do curso da [Data Science Academy](https:/
 * **Cap 07**: Desafios DSA.
 
 * **Cap 08**: Python Módulos Python para Análise de dados.
+
+* **Cap 09**: Introdução a Análise de Dados
+
