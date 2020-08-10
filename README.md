@@ -21,3 +21,6 @@ Repositório dedicado aos exercícios do curso da [Data Science Academy](https:/
 ![Captura de tela de 2020-07-11 16-01-24](https://user-images.githubusercontent.com/52939036/87231788-7bec1d80-c390-11ea-912f-8cc2d58bea8b.png)
 
 * **Cap 10**: TensorFlow
+
+* **Cap 11**: Introdução a Machine Learning com Python
+
